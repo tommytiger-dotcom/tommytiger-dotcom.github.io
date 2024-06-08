@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+file:///C:/Users/yeeha/Downloads/Coronavirus%20Impact%20Planning%20(Esri%202023).html
